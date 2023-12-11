@@ -1,0 +1,25 @@
+{
+  "name": "designalytica_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neelmani0/Designalytica_assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neelmani0/Designalytica_assignment/issues"
+  },
+  "homepage": "https://github.com/neelmani0/Designalytica_assignment#readme",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "express": "^4.18.2",
+    "puppeteer": "^21.6.0"
+  }
+}
